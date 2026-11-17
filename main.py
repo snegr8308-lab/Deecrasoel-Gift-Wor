@@ -13,7 +13,7 @@ from aiogram.types import (
     LinkPreviewOptions,
 )
 
-BOT_TOKEN = "9297287931:AAEenJAM4JDffSJV_Y5eocYHJkSuC0QHstI"
+BOT_TOKEN = "8070456712:AAGwuG9kY3ITfkB2a0I7f6fUnqHNt25Gxzg"
 BUYER_USERNAME = "mokqe"
 
 bot = Bot(
